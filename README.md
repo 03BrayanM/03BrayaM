@@ -15,7 +15,7 @@
 
 ### 🧭 Sobre mí
 
-- 🎓 Estudiante de ingeniería de Sistemas en la Universidad del Cauca (Popayán, Colombia)
+- 🎓 Ingeniero de Sistemas,estudie en la Universidad del Cauca (Popayán, Colombia)
 - 💻 Enfocado en desarrollo backend y frontend con microservicios y aplicaciones móviles Android
 - ☁️ Con experiencia práctica desplegando sistemas en la nube (CI/CD, contenedores)
 - 🔧 Interesado en arquitectura de software, calidad de código y automatización
